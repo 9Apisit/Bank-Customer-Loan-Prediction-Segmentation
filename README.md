@@ -37,13 +37,13 @@ This project follows a complete **end-to-end data science workflow**, including 
 * **XGBoost** – for gradient boosting classification
 * **Jupyter Notebook** – for interactive development and reporting
 
-📄 [project](project.ipynb)
+📄 [Project Flie](Bank Customer Loan Prediction & Segmentation.ipynb)
 ---
 
 ## 📎 Dataset
 
 The dataset used in this project is publicly available on Kaggle. It contains customer demographic information, banking behavior, and whether they have accepted a personal loan offer.
 
-You can find the dataset here: Bank Loan Modelling Dataset on Kaggle
+You can find the dataset here: [Bank Loan Modelling Dataset on Kaggle](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
 or [Bank_Personal_Loan_Modelling.xlsx](Bank_Personal_Loan_Modelling.xlsx)
 
