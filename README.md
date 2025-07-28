@@ -45,7 +45,5 @@ This project follows a complete **end-to-end data science workflow**, including 
 The dataset used in this project is publicly available on Kaggle. It contains customer demographic information, banking behavior, and whether they have accepted a personal loan offer.
 
 You can find the dataset here: Bank Loan Modelling Dataset on Kaggle
-or 
-
-[dataset](Bank_Personal_Loan_Modelling.xlsx)
+or [Bank_Personal_Loan_Modelling.xlsx](Bank_Personal_Loan_Modelling.xlsx)
 
