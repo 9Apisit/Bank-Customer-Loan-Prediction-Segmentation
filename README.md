@@ -37,33 +37,15 @@ This project follows a complete **end-to-end data science workflow**, including 
 * **XGBoost** – for gradient boosting classification
 * **Jupyter Notebook** – for interactive development and reporting
 
----
-
-## 📂 Structure
-
-```
-project/
-│
-├── project.ipynb               # Main notebook containing the analysis
-├── README.md                   # Project overview and explanation
-└── data/
-    └── bank_loan_data.csv      # Dataset used (from Kaggle)
-```
-
----
-
-## 📈 Key Outcomes
-
-* Achieved high model performance with **Logistic Regression** reaching an accuracy of **95%**, and ROC-AUC score of **0.96**
-* Identified strong correlation between features such as Income and CCAvg with the likelihood of taking a personal loan
-* Revealed customer segments using clustering, which can be used to design focused marketing strategies
-
+📄 [project](project.ipynb)
 ---
 
 ## 📎 Dataset
 
-The dataset used is publicly available on [Kaggle](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling). It contains customer demographic information, banking behavior, and whether they have accepted a personal loan offer.
+The dataset used in this project is publicly available on Kaggle. It contains customer demographic information, banking behavior, and whether they have accepted a personal loan offer.
 
----
+You can find the dataset here: Bank Loan Modelling Dataset on Kaggle
+or 
 
-Let me know if you'd like me to export this as a `README.md` file or embed it directly into your notebook. ✅
+dataset(Bank_Personal_Loan_Modelling.xlsx)
+
