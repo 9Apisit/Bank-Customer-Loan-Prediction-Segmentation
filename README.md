@@ -38,7 +38,7 @@ This project follows a complete **end-to-end data science workflow**, including 
 * **Jupyter Notebook** – for interactive development and reporting
 --
 
-📄 Project file : [Bank Customer Loan Prediction & Segmentation.ipynb](Bank_Customer_Loan_Prediction&Segmentation.ipynb)
+#📄 Project file : [Bank Customer Loan Prediction & Segmentation.ipynb](Bank_Customer_Loan_Prediction&Segmentation.ipynb)
 
 ---
 
