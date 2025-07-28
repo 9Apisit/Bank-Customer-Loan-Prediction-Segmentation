@@ -36,8 +36,9 @@ This project follows a complete **end-to-end data science workflow**, including 
 * **Scikit-learn** – for preprocessing, modeling, evaluation, and clustering
 * **XGBoost** – for gradient boosting classification
 * **Jupyter Notebook** – for interactive development and reporting
+--
 
-📄 [Bank Customer Loan Prediction & Segmentation.ipynb](Bank Customer Loan Prediction & Segmentation.ipynb)
+📄 [Bank Customer Loan Prediction & Segmentation.ipynb](Bank_Customer_Loan_Prediction&Segmentation.ipynb)
 
 ---
 
