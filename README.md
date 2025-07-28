@@ -37,7 +37,8 @@ This project follows a complete **end-to-end data science workflow**, including 
 * **XGBoost** – for gradient boosting classification
 * **Jupyter Notebook** – for interactive development and reporting
 
-📄 [Project Flie](Bank-Customer-Loan-Prediction-Segmentation/Bank Customer Loan Prediction & Segmentation.ipynb)
+📄 [Bank Customer Loan Prediction & Segmentation.ipynb](Bank Customer Loan Prediction & Segmentation.ipynb)
+
 ---
 
 ## 📎 Dataset
